@@ -1,0 +1,38 @@
+1.	2004	United States Miami Open	Masters	Hard	Round of 32	Nadal	6–3, 6–3	1:10	2/3	0	1
+2.	2005	United States Miami Open	Masters	Hard	Final	Federer	2–6, 6–7(4–7), 7–6(7–5), 6–3, 6–1	3:43	5/5	1	1
+3.	2005	France Roland Garros	Major	Clay	Semifinals	Nadal	6–3, 4–6, 6–4, 6–3	2:47	4/5	1	2
+4.	2006	United Arab Emirates Dubai Championships	500	Hard	Final	Nadal	2–6, 6–4, 6–4	1:53	3/3	1	3
+5.	2006	Monaco Monte-Carlo Masters	Masters	Clay	Final	Nadal	6–2, 6–7(2–7), 6–3, 7–6(7–5)	3:50	4/5	1	4
+6.	2006	Italy Italian Open	Masters	Clay	Final	Nadal	6–7(0–7), 7–6(7–5), 6–4, 2–6, 7–6(7–5)	5:05	5/5	1	5
+7.	2006	France Roland Garros	Major	Clay	Final	Nadal	1–6, 6–1, 6–4, 7–6(7–4)	3:02	4/5	1	6
+8.	2006	United Kingdom Wimbledon	Major	Grass	Final	Federer	6–0, 7–6(7–5), 6–7(2–7), 6–3	2:58	4/5	2	6
+9.	2006	China Tennis Masters Cup	Tour Finals	Hard (i)	Semifinals	Federer	6–4, 7–5	1:53	2/3	3	6
+10.	2007	Monaco Monte-Carlo Masters	Masters	Clay	Final	Nadal	6–4, 6–4	1:35	2/3	3	7
+11.	2007	Germany Hamburg Masters	Masters	Clay	Final	Federer	2–6, 6–2, 6–0	1:55	3/3	4	7
+12.	2007	France Roland Garros	Major	Clay	Final	Nadal	6–3, 4–6, 6–3, 6–4	3:10	4/5	4	8
+13.	2007	United Kingdom Wimbledon	Major	Grass	Final	Federer	7–6(9–7), 4–6, 7–6(7–3), 2–6, 6–2	3:45	5/5	5	8
+14.	2007	China Tennis Masters Cup	Tour Finals	Hard (i)	Semifinals	Federer	6–4, 6–1	0:59	2/3	6	8
+15.	2008	Monaco Monte-Carlo Masters	Masters	Clay	Final	Nadal	7–5, 7–5	1:43	2/3	6	9
+16.	2008	Germany Hamburg Masters	Masters	Clay	Final	Nadal	7–5, 6–7(3–7), 6–3	2:52	3/3	6	10
+17.	2008	France Roland Garros	Major	Clay	Final	Nadal	6–1, 6–3, 6–0	1:48	3/5	6	11
+18.	2008	United Kingdom Wimbledon	Major	Grass	Final	Nadal	6–4, 6–4, 6–7(5–7), 6–7(8–10), 9–7	4:48	5/5	6	12
+19.	2009	Australia Australian Open	Major	Hard	Final	Nadal	7–5, 3–6, 7–6(7–3), 3–6, 6–2	4:23	5/5	6	13
+20.	2009	Spain Madrid Open	Masters	Clay	Final	Federer	6–4, 6–4	1:26	2/3	7	13
+21.	2010	Spain Madrid Open	Masters	Clay	Final	Nadal	6–4, 7–6(7–5)	2:10	2/3	7	14
+22.	2010	United Kingdom ATP World Tour Finals	Tour Finals	Hard (i)	Final	Federer	6–3, 3–6, 6–1	1:37	3/3	8	14
+23.	2011	United States Miami Open	Masters	Hard	Semifinals	Nadal	6–3, 6–2	1:18	2/3	8	15
+24.	2011	Spain Madrid Open	Masters	Clay	Semifinals	Nadal	5–7, 6–1, 6–3	2:36	3/3	8	16
+25.	2011	France Roland Garros	Major	Clay	Final	Nadal	7–5, 7–6(7–3), 5–7, 6–1	3:40	4/5	8	17
+26.	2011	United Kingdom ATP World Tour Finals	Tour Finals	Hard (i)	Round Robin	Federer	6–3, 6–0	1:00	2/3	9	17
+27.	2012	Australia Australian Open	Major	Hard	Semifinals	Nadal	6–7(5–7), 6–2, 7–6(7–5), 6–4	3:42	4/5	9	18
+28.	2012	United States Indian Wells Masters	Masters	Hard	Semifinals	Federer	6–3, 6–4	1:31	2/3	10	18
+29.	2013	United States Indian Wells Masters	Masters	Hard	Quarterfinals	Nadal	6–4, 6–2	1:24	2/3	10	19
+30.	2013	Italy Italian Open	Masters	Clay	Final	Nadal	6–1, 6–3	1:08	2/3	10	20
+31.	2013	United States Cincinnati Masters	Masters	Hard	Quarterfinals	Nadal	5–7, 6–4, 6–3	2:14	3/3	10	21
+32.	2013	United Kingdom ATP World Tour Finals	Tour Finals	Hard (i)	Semifinals	Nadal	7–5, 6–3	1:19	2/3	10	22
+33.	2014	Australia Australian Open	Major	Hard	Semifinals	Nadal	7–6(7–4), 6–3, 6–3	2:24	3/5	10	23
+34.	2015	Switzerland Swiss Indoors	500	Hard (i)	Final	Federer	6–3, 5–7, 6–3	2:03	3/3	11	23
+35.	2017	Australia Australian Open	Major	Hard	Final	Federer	6–4, 3–6, 6–1, 3–6, 6–3	3:37	5/5	12	23
+36.	2017	United States Indian Wells Masters	Masters	Hard	Round of 16	Federer	6–2, 6–3	1:08	2/3	13	23
+37.	2017	United States Miami Open	Masters	Hard	Final	Federer	6–3, 6–4	1:34	2/3	14	23
+38.	2017	China Shanghai Masters	Masters	Hard	Final	Federer	6–4, 6–3	1:12	2/3	15	23
